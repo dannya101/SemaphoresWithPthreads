@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="edoras.sdsu.edu" id="7640a7ae-05ee-44af-a77f-96dd04f384a3" port="22" nameFormat="DESCRIPTIVE" username="cssc3601" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9680a1f3-7a57-4013-a843-2f2967f9b0a8" name="edoras">
+        <fileTransfer rootFolder="/home/cs/bshen/cssc3601" accessType="SFTP" host="edoras.sdsu.edu" port="22" sshConfigId="7640a7ae-05ee-44af-a77f-96dd04f384a3" sshConfig="cssc3601@edoras.sdsu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
